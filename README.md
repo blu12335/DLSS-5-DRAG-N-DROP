@@ -12,3 +12,11 @@ games tested so far working instantly
 - BATMAN Arkham Knight
 ----------------------------------------------------------------------------------
 - (If game crashes/freezes you can fully disable reshade by just renaming the dxgi.dll file too something like dxgi.dll0 (That way it doesnt load)
+----------------------------------------------------------------------------------
+examples of it working
+:
+<img width="2560" height="1440" alt="KINGDOM HEARTS HD 1 5+2 5 ReMIX Screenshot 2026 08 30 - 09 40 03 85" src="https://github.com/user-attachments/assets/4d71cdb9-34e1-4bbe-aa0b-381bc569c356" />
+<img width="2560" height="1440" alt="KINGDOM HEARTS HD 1 5+2 5 ReMIX Screenshot 2026 08 30 - 09 39 56 88" src="https://github.com/user-attachments/assets/5a1c3416-5c10-4125-bdcc-e1dc26364f3c" />
+:
+- <img width="643" height="694" alt="Screenshot 2026-08-30 060958" src="https://github.com/user-attachments/assets/c815b26d-03a5-47df-9d15-46efcd5d3cd5" />
+<img width="763" height="817" alt="Screenshot 2026-08-30 061021" src="https://github.com/user-attachments/assets/9250b7df-0723-4a21-9a78-2075562d720b" />
