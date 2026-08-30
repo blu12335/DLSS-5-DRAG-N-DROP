@@ -1,5 +1,6 @@
 just drag and drop files next to game .exe
 this was tested and done on a RTX 4060 
+mainly for dx11 games with no built in dlss but should work either way
 ----------------------------------------------------------------------------------
 games tested so far working instantly
 - kena bridge of spirits
