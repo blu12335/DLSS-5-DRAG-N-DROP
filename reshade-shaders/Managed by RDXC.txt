@@ -1,0 +1,2 @@
+This folder is managed by RenoDXCommander. Do not edit manually.
+Deleting this file will cause RDXC to treat the folder as user-managed.
