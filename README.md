@@ -13,6 +13,8 @@ games tested so far working instantly
 ----------------------------------------------------------------------------------
 - (If game crashes/freezes you can fully disable reshade by just renaming the dxgi.dll file too something like dxgi.dll0 (That way it doesnt load)
 ----------------------------------------------------------------------------------
+message on discord for help https://discord.gg/FtspfXp56J
+----------------------------------------------------------------------------------
 examples of it working
 :
 <img width="2560" height="1440" alt="KINGDOM HEARTS HD 1 5+2 5 ReMIX Screenshot 2026 08 30 - 09 40 03 85" src="https://github.com/user-attachments/assets/4d71cdb9-34e1-4bbe-aa0b-381bc569c356" />
